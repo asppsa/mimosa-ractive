@@ -1,0 +1,32 @@
+{
+  "name": "mimosa-ractive",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dbashford/mimosa-ractive",
+  "author": "David Bashford",
+  "description": "A Ractive template compiler for Mimosa 2.0+",
+  "contributors": [
+    {
+      "name": "David Bashford",
+      "email": "dbashford@hotmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbashford/mimosa-ractive"
+  },
+  "keywords": [
+    "mimosa",
+    "mmodule",
+    "compiler",
+    "ractive"
+  ],
+  "dependencies": {
+    "logmimosa": "0.6.0",
+    "ractive": "0.3.9"
+  },
+  "license": "MIT",
+  "main": "./src",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
